@@ -1,0 +1,8 @@
+.main-header{
+    max-width: 100vw !important;
+}
+
+#google-map{
+    width: 100% !important;
+    height: 50vh !important;
+}
